@@ -13,7 +13,7 @@ Se utiliza _Markdown_ para documentar el proyecto y aprender su sintaxis.
 
 Enlace útil: [Guía básica de Markdown](https://www.markdownguide.org/basic-syntax/)
 
-Imagen alojada en el repositorio (ruta relativa):  
+Imagen alojada en el repositorio:  
 ![Captura del sitio](assets/captura.png)
 
 Bloque de código:
